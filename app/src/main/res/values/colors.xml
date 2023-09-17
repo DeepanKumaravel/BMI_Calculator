@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="grey">#343a40</color>
+    <color name="red">#d90429</color>
+
+    <color name="yellow">#fdc500</color>
+    <color name="green">#6a994e</color>
+
+    <color name="lblue">#415a77</color>
+    <color name="Tblue">#003566</color>
+
+    <color name="underWeight">#ef476f</color>
+    <color name="normal">#6a994e</color>
+    <color name="overWeight">#ff5400</color>
+    <color name="obese">#d62828</color>
+
+</resources>
